@@ -8,3 +8,8 @@
 Prasanth595/Prasanth595 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Social Media
+
+* <img src="./images/logo-icons/facebook.jpg" width="15px;"/> [Facebook](https://linktr.ee/prasanth_)
+* <img src="./images/logo-icons/linkedin.jpg" width="15px;"/> [LinkedIn](https://www.linkedin.com/in/prasanth-arumugam-54265b180)
