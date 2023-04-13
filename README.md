@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prasanth595
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning GCP
+- 🌱 I’m currently Certified GCP Associate Cloud Engineer
 - 💞️ I’m looking to collaborate on Mining
 - 📫 How to reach me Mail
 
