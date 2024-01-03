@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Prasanth+Arumugam+-++DevOps+Engineer)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @Prasanth595
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently Certified GCP [Associate Cloud Engineer](https://www.credential.net/2d2bc4ba-a8c0-4260-8bea-84fcb5bac777?key=6bbd5151edfa5982507c3a1ad67735e7e6759d22bafe952d054fa67e12994820)
