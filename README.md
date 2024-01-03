@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ED8F7&random=false&width=435&lines=Prasanth+Arumugam+-+Senior+DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ED8F7&random=false&width=435&lines=Prasanth+Arumugam+-+DevOps+Engineer)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @Prasanth595
 - 👀 I’m interested in DevOps
